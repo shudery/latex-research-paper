@@ -1,0 +1,14 @@
+%给文字增加背景色，首先，会想到xcolor宏包所提供的colorbox命令起到了背景色添加的作用，但是其背景色不能出现断行，若是断行了colorbox就无法支援了。那么我需要下面的效果该如何实现呢？
+
+%!TEX program = xelatex
+\documentclass{article}
+\usepackage{xcolor}
+\usepackage[normalem]{ulem} % use normalem to protect \emph
+\newcommand\hl{\bgroup\markoverwith
+  {\textcolor{green}{\rule[-.5ex]{2pt}{2.5ex}}}\ULon}
+\begin{document}
+	Hello, \LaTeX\ world.
+	\hl{Hello, \LaTeX\
+	 world.}
+
+\end{document}
