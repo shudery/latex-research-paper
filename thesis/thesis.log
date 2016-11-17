@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  14 NOV 2016 10:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  15 NOV 2016 15:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1178,8 +1178,8 @@ Already applied: [0000/00/00] float order in 2-column on input line 151.
 * 
 * Command \CTEXsetup is deprecated.
 * \ctexset { chapter = {  nameformat={}, numberformat={}, titleformat={},
-* aftername={\enspace }, beforeskip={16bp}, afterskip={18bp plus 3.6bp minus
-* 3.6bp}, format={\heiti \zihao {-3}\centering \baselineskip =20bp},  } } is
+* aftername={\enspace }, beforeskip={30bp}, afterskip={30bp plus 6bp minus
+* 6bp}, format={\heiti \zihao {-3}\centering \baselineskip =20bp},  } } is
 * set.
 *************************************************
 *************************************************
@@ -1187,7 +1187,7 @@ Already applied: [0000/00/00] float order in 2-column on input line 151.
 * 
 * Command \CTEXsetup is deprecated.
 * \ctexset { section = {  aftername={\enspace }, beforeskip={18bp},
-* afterskip={6bp plus 1.2bp minus 1.2bp}, numberformat={\bf }, format={\heiti
+* afterskip={18bp plus 3.6bp minus 3.6bp}, numberformat={\bf }, format={\heiti
 * \zihao {4}\flushleft \baselineskip =20bp} } } is set.
 *************************************************
 *************************************************
@@ -1195,14 +1195,14 @@ Already applied: [0000/00/00] float order in 2-column on input line 151.
 * 
 * Command \CTEXsetup is deprecated.
 * \ctexset { subsection = {  aftername={\enspace }, beforeskip={12bp},
-* afterskip={6bp plus 1.2bp minus 1.2bp}, numberformat={\bf }, format={\heiti
+* afterskip={12bp plus 2.4bp minus 2.4bp}, numberformat={\bf }, format={\heiti
 * \zihao {4}\flushleft \baselineskip =20bp} } } is set.
 *************************************************
 *************************************************
 * ctex warning: "deprecated-command"
 * 
 * Command \CTEXsetup is deprecated.
-* \ctexset { subsubsection = {  aftername={\enspace }, beforeskip={12bp},
+* \ctexset { subsubsection = {  aftername={\enspace }, beforeskip={6bp},
 * afterskip={6bp plus 1.2bp minus 1.2bp}, numberformat={\bf }, format={\heiti
 * \zihao {-4}\flushleft \baselineskip =20bp} } } is set.
 *************************************************
@@ -1787,7 +1787,8 @@ File: UTF8.chr 2015/04/18 4.8.4
 )
 (./thesis.aux (./contents/Cabstract.aux) (./contents/Eabstract.aux)
 (./chapters/ChapterA.aux) (./chapters/ChapterB.aux) (./chapters/ChapterC.aux)
-(./chapters/ChapterD.aux))
+(./chapters/ChapterD.aux) (./contents/original.aux) (./contents/translation.aux
+))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -1873,8 +1874,7 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 7.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )<<ot1.cmap>>
 ABD: EverySelectfont initializing macros
@@ -1891,16 +1891,16 @@ LaTeX Info: Redefining \selectfont on input line 7.
 * vratio: 1:1
 * modes: twoside 
 * h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
-* v-part:(T,H,B)=(89.34163pt, 666.36359pt, 89.34163pt)
+* v-part:(T,H,B)=(103.56801pt, 637.91083pt, 103.56801pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=426.79135pt
-* \textheight=666.36359pt
+* \textheight=637.91083pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-13.78809pt
+* \topmargin=2.57225pt
 * \headheight=12.65pt
-* \headsep=18.20973pt
+* \headsep=16.07578pt
 * \topskip=12.0pt
 * \footskip=30.0pt
 * \marginparwidth=98.0pt
@@ -1990,15 +1990,15 @@ LaTeX Font Info:    Try loading font information for C70+zhhei on input line 3.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/zhmetrics/c70zhhei.fd
 File: c70zhhei.fd 2009/09/23 4.8.2
 )
-LaTeX Font Info:    Try loading font information for C70+rm on input line 4.
+LaTeX Font Info:    Try loading font information for C70+rm on input line 5.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2016/05/16 v2.4.2 Chinese font definition (CTEX)
 )
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
-quanjiao) on input line 4.
+quanjiao) on input line 5.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.05> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2016/05/16 v2.4.2 Windows font map loader for pdfTeX a
@@ -2010,30 +2010,19 @@ nd DVIPDFMx (CTEX)
 
 
 
-] [2
-
-
-
-]
+] [2]
 \openout2 = `contents/Eabstract.aux'.
 
  (./contents/Eabstract.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <15.05624> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-
-Underfull \hbox (badness 1776) in paragraph at lines 15--15
-[]\OT1/ptm/m/n/12.05 time-domain elec-tro-mag-netic scat-ter-ing, time-domain i
-n-te-gral equa-tion
- []
-
-) [3
-
-
-] [4
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+ [3
 
 
 
-] (./thesis.toc
+
+
+]) [4] (./thesis.toc
 LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 1.
 <<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.91705> not available
@@ -2045,6 +2034,9 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.23007> not available
 \openout8 = `thesis.toc'.
 
  [5
+
+
+
 
 ] [6
 
@@ -2067,22 +2059,22 @@ No file thesis.gls.
 \openout2 = `chapters/ChapterA.aux'.
 
  (./chapters/ChapterA.tex
-Á¨¨‰∏ÄÁ´†
+Á¨¨1Á´†
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 ) [1
 
 
-]
+] [2]
 \openout2 = `chapters/ChapterB.aux'.
 
  (./chapters/ChapterB.tex
-Á¨¨‰∫åÁ´†
+Á¨¨2Á´†
 
 
 pdfTeX warning: pdflatex (file ./pics/pica.pdf): PDF inclusion: found PDF versi
 on <1.7>, but at most version <1.5> allowed
-<pics/pica.pdf, id=397, 156.36618pt x 113.00317pt>
+<pics/pica.pdf, id=415, 156.36618pt x 113.00317pt>
 File: pics/pica.pdf Graphic file (type pdf)
  <use pics/pica.pdf>
 Package pdftex.def Info: pics/pica.pdf used on input line 24.
@@ -2101,18 +2093,20 @@ m/m/n/12.05/8f π \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/95 ^^? \C70/rm/m/n/12
 5 T[]$\C70/rm/m/n/12.05/76 Ñ
  []
 
-[2
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
- <./pics/pica.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+[3
 
+
+
+]
 
 pdfTeX warning: pdflatex (file ./pics/picb.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<pics/picb.pdf, id=476, 395.4775pt x 324.21124pt>
+<pics/picb.pdf, id=439, 395.4775pt x 324.21124pt>
 File: pics/picb.pdf Graphic file (type pdf)
  <use pics/picb.pdf>
 Package pdftex.def Info: pics/picb.pdf used on input line 39.
@@ -2121,16 +2115,21 @@ Package pdftex.def Info: pics/picb.pdf used on input line 39.
 
 pdfTeX warning: pdflatex (file ./pics/picc.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<pics/picc.pdf, id=477, 377.41pt x 331.2375pt>
+<pics/picc.pdf, id=440, 377.41pt x 331.2375pt>
 File: pics/picc.pdf Graphic file (type pdf)
  <use pics/picc.pdf>
 Package pdftex.def Info: pics/picc.pdf used on input line 40.
 (pdftex.def)             Requested size: 182.38136pt x 160.75612pt.
-) [3 <./pics/picb.pdf> <./pics/picc.pdf>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [4 <./pics/pica.pdf>] [5 <./pics/picb.pdf> <./pics/picc.pdf>]
 \openout2 = `chapters/ChapterC.aux'.
 
- (./chapters/ChapterC.tex
-Á¨¨‰∏âÁ´†
+
+(./chapters/ChapterC.tex
+Á¨¨3Á´†
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
@@ -2141,16 +2140,20 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 
 pdfTeX warning: pdflatex (file ./pics/tablea.pdf): PDF inclusion: found PDF ver
 sion <1.6>, but at most version <1.5> allowed
-<pics/tablea.pdf, id=498, 367.53813pt x 96.7876pt>
+<pics/tablea.pdf, id=517, 367.53813pt x 96.7876pt>
 File: pics/tablea.pdf Graphic file (type pdf)
  <use pics/tablea.pdf>
 Package pdftex.def Info: pics/tablea.pdf used on input line 22.
 (pdftex.def)             Requested size: 367.53723pt x 96.78735pt.
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
 pdfTeX warning: pdflatex (file ./pics/picd.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<pics/picd.pdf, id=501, 402.50375pt x 332.24126pt>
+<pics/picd.pdf, id=520, 402.50375pt x 332.24126pt>
 File: pics/picd.pdf Graphic file (type pdf)
  <use pics/picd.pdf>
 Package pdftex.def Info: pics/picd.pdf used on input line 30.
@@ -2159,7 +2162,7 @@ Package pdftex.def Info: pics/picd.pdf used on input line 30.
 
 pdfTeX warning: pdflatex (file ./pics/pice.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<pics/pice.pdf, id=502, 416.55624pt x 326.21875pt>
+<pics/pice.pdf, id=521, 416.55624pt x 326.21875pt>
 File: pics/pice.pdf Graphic file (type pdf)
  <use pics/pice.pdf>
 Package pdftex.def Info: pics/pice.pdf used on input line 31.
@@ -2168,11 +2171,11 @@ Package pdftex.def Info: pics/pice.pdf used on input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4
+[6
 
 
 
- <./pics/tablea.pdf>]
+]
 
 Package mathptmx Warning: There are no bold math fonts on input line 41.
 
@@ -2180,12 +2183,13 @@ Package hyperref Info: bookmark level for unknown dingli defaults to 0 on input
  line 41.
 Package hyperref Info: bookmark level for unknown zhengming defaults to 0 on in
 put line 45.
-) [5 <./pics/picd.pdf> <./pics/pice.pdf>]
+) [7 <./pics/tablea.pdf> <./pics/picd.pdf> <./pics/pice.pdf>] [8]
 \openout2 = `chapters/ChapterD.aux'.
 
- (./chapters/ChapterD.tex
-Á¨¨ÂõõÁ´†
-) [6
+
+(./chapters/ChapterD.tex
+Á¨¨4Á´†
+) [9
 
 
 
@@ -2202,41 +2206,90 @@ Package hyperref Warning: Option `pdflang' has already been used,
 Package hyperref Warning: Option `pdfpagelayout' has already been used,
 (hyperref)                setting the option has no effect on input line 12.
 
+(./thesis.bbl<<ot1tt.cmap>>) [10
+
+
+]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 6.025pt
 (hyperref)                replaced by space on input line 12.
 
-(./contents/acknowledgements.tex) [7
-
-
-] (./thesis.bbl<<ot1tt.cmap>>)
-(./contents/appendix.tex) [8
+(./contents/acknowledgements.tex) (./contents/appendix.tex) [11
 
 ]
 *************************************************
 * ctex warning: "deprecated-command"
 * 
-* Command \CTEXoptions is deprecated.
-* \ctexset {  bibname={\publicationsname@degree } } is set.
+* Command \CTEXsetup is deprecated.
+* \ctexset { chapter = {  name={,}, number={}  } } is set.
 *************************************************
-(./publications.bbl
-Underfull \hbox (badness 5970) in paragraph at lines 62--63
-[]\OT1/ptm/m/n/10.53937 XXX|\C70/rm/m/n/10.53937/ff ^^L| \OT1/ptm/m/n/10.53937 
-XXX|\C70/rm/m/n/10.53937/ff ^^L| \OT1/ptm/m/n/10.53937 XXX|\C70/rm/m/n/10.53937
-/ff ^^L| \OT1/ptm/m/n/10.53937 XXX|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.
-53937/73 ã \C70/rm/m/n/10.53937/53 G|\C70/rm/m/n/10.53937/ff ^^N| \OT1/ptm/m/n/
-10.53937 XXX\C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/96 v \C70/rm/m/n/10.
-53937/74 ˜ \C70/rm/m/n/10.53937/78 ^^T \C70/rm/m/n/10.53937/7a v|\C70/rm/m/n/10
-.53937/ff ^^N| \C70/rm/m/n/10.53937/56 € \C70/rm/m/n/10.53937/5d › \C70/rm/m/n/
-10.53937/77 ^^A \C70/rm/m/n/10.53937/79 — \C70/rm/m/n/10.53937/62 Ä \C70/rm/m/n
-/10.53937/8f € \C70/rm/m/n/10.53937/6b e \C70/rm/m/n/10.53937/4e 	 \C70/rm/m/n/
-10.53937/7b I \C70/rm/m/n/10.53937/59 V|\C70/rm/m/n/10.53937/ff ^^L|
+\openout2 = `contents/original.aux'.
+
+(./contents/original.tex
+
+) [12
+
+
+
+] [13]
+\openout2 = `contents/translation.aux'.
+
+ (./contents/translation.texpdfTeX warning (ext4): destination with the same id
+entifier (name{appendix.A}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \chapter{Ê≠§ÂêçÊúâËØóÊÑè}
+                             
+
+pdfTeX warning (ext4): destination with the same identifier (name{section.A.1})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4 \section{xxx}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{subsection.A.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5 \subsection{xxx}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{subsubsection.A.1.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.6 \subsubsection{xxxx}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{section.A.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 \section{xxx}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{subsection.A.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.8 \subsection{xxx}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{subsubsection.A.2.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 \subsubsection{xxxx}
+                        
+Overfull \hbox (1.22397pt too wide) in paragraph at lines 13--16
+[]\C70/rm/m/n/12.05/57 ( \C70/rm/m/n/12.05/53 — \C70/rm/m/n/12.05/97 Û \C70/rm/
+m/n/12.05/65 ˆ|\C70/rm/m/n/12.05/ff ^^L| \OT1/ptm/m/n/12.05 T[]X\C70/rm/m/n/12.
+05/76 Ñ$\OML/cmm/m/it/12.05 ^^_$\C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/53 — \
+C70/rm/m/n/12.05/97 Û \C70/rm/m/n/12.05/4e ^^N \C70/rm/m/n/12.05/5e ^^L \C70/rm
+/m/n/12.05/81 J \C70/rm/m/n/12.05/76 Ñ\OT1/ptm/m/n/12.05 chi\C70/rm/m/n/12.05/4
+e ^^@ \C70/rm/m/n/12.05/68 7|\C70/rm/m/n/12.05/ff ^^L| \C70/rm/m/n/12.05/80 ^^L
+ \C70/rm/m/n/12.05/4e ^^M \C70/rm/m/n/12.05/66 / |\C70/rm/m/n/12.05/20 ^^\|\OT1
+/ptm/m/n/12.05 x|\C70/rm/m/n/12.05/20 ^^]||\C70/rm/m/n/12.05/ff ^^L| \C70/rm/m/
+n/12.05/62 @ \C70/rm/m/n/12.05/4e Â\OT1/ptm/m/n/12.05 T[]X\C70/rm/m/n/12.05/4e 
+^^N\OT1/ptm/m/n/12.05 blecchhh
  []
 
 )
-Package atenddvi Info: Last page = 19.
- [9
+Package atenddvi Info: Last page = 24.
+ [14
+
 
 
 ]
@@ -2244,59 +2297,61 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 12.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 12.
  (./thesis.aux (./contents/Cabstract.aux) (./contents/Eabstract.aux)
 (./chapters/ChapterA.aux) (./chapters/ChapterB.aux) (./chapters/ChapterC.aux)
-(./chapters/ChapterD.aux))
+(./chapters/ChapterD.aux) (./contents/original.aux) (./contents/translation.aux
+))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 12.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 12.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2D0EFA9D6263F55E833FA1EE6B97D52A;4392.
+(rerunfilecheck)             Checksum: 84724C41D48AB54E6989F7678713F32B;4433.
  ) 
 Here is how much of TeX's memory you used:
- 31015 strings out of 493014
- 516457 string characters out of 6133350
- 605335 words of memory out of 5000000
- 33321 multiletter control sequences out of 15000+600000
- 115908 words of font info for 385 fonts, out of 8000000 for 9000
+ 31320 strings out of 493014
+ 520029 string characters out of 6133350
+ 610622 words of memory out of 5000000
+ 33595 multiletter control sequences out of 15000+600000
+ 121594 words of font info for 393 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,11n,83p,10580b,605s stack positions out of 5000i,500n,10000p,200000b,80000s
-<simsun.ttc><simhei.ttf><simsun.ttc><simhei.ttf><simsun.ttc><simhei.ttf><simh
-ei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc>
-<simhei.ttf><simsun.ttc><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun
-.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><s
-imsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.t
-tf><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><sim
-hei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc
-><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhe
-i.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
-simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.
-ttf>{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<simhei.ttf
-><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsu
+ 56i,11n,83p,10565b,767s stack positions out of 5000i,500n,10000p,200000b,80000s
+<simsun.ttc>{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<
+simsun.ttc><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.
+ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><si
+msun.ttc><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.tt
+c><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simh
+ei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf>
+<simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun
+.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><s
+imhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.t
+tf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><sim
+sun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc
+><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
 n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
 simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
 ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><si
 msun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.tt
 c><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
 un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc>
-<simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/
-type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
-times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/zapfding/u
-zdr.pfb>
-Output written on thesis.pdf (19 pages, 827880 bytes).
+<simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei
+.ttf><simsun.ttc><simsun.ttc></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
+0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on thesis.pdf (24 pages, 879631 bytes).
 PDF statistics:
- 1029 PDF objects out of 1200 (max. 8388607)
- 750 compressed objects within 8 object streams
- 86 named destinations out of 1000 (max. 500000)
- 575 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1076 PDF objects out of 1200 (max. 8388607)
+ 783 compressed objects within 8 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 599 words of extra memory for PDF output out of 10000 (max. 10000000)
 
